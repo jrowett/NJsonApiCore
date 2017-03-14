@@ -200,7 +200,7 @@
       ]
     },
     "Microsoft.Web.Infrastructure/1.0.0": {
-      "sha512": "FNmvLn5m2LTU/Rs2KWVo0SIIh9Ek+U0ojex7xeDaSHw/zgEP77A8vY5cVWgUtBGS8MJfDGNn8rpXJWEIQaPwTg==",
+      "sha512": "SqV0NRmUyobIKHoxWRAWCTReMAy0AX00gUCGxl222joKWwQgy1Ycr5c+uVffOfQl4zcHEGpR+ULRmZDesMGXcA==",
       "type": "package",
       "path": "Microsoft.Web.Infrastructure/1.0.0",
       "files": [
